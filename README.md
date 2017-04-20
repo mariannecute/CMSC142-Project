@@ -1,1 +1,1 @@
-# CMSC142-Project
+# CMSC142 Project: The N-Chancellors Solver
