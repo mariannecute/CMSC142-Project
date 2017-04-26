@@ -1,0 +1,2 @@
+Puzzle 1: 32767 solutions
+Puzzle 2: 32767 solutions
